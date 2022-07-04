@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @leoschonberger
+- 👀 I’m interested in Python, Full Stack Web Apps, and Cybersecurity
+- 🌱 I’m currently learning MERN stack
+- 📫 You can reach me at my email
