@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @leoschonberger
 - 👀 I’m interested in Python, Java, Full Stack Web Apps, and Cybersecurity
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript and C
 - 📫 You can reach me at leoschonberger@gmail.com
