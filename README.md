@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Leo
-- I'm currently a CS student studying at the University of Oregon
-- I’m interested in Python, Java, Full Stack Web Apps, and Cybersecurity
+- I'm a CS student studying at the University of Oregon
+- I’m interested in Python, Javascript, Full Stack Web Apps, and Cybersecurity
 - I’m currently learning Typescript and React
