@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Leo
-- I'm a CS student studying at the University of Oregon
-- I’m interested in Python, Javascript, Full Stack Web Apps, and Cybersecurity
-- I’m currently learning Typescript and React
+- I graduated from the University of Oregon with a CS degree.
+- I'm currently working for Biotronik as a software engineer, automating test tracability tools.
+- I’m interested in Software, DevOps, DataSci, and AI/ML applications.
