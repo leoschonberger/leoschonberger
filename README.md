@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Leo
-- I'm currently working for Biotronik as a software engineer, automating test tracability tools for FDA submissions.
-- I graduated from the University of Oregon with a CS degree in 2025.
+- I'm currently working for Biotronik as a DevOps/Tools Engineer. 
 - I’m interested in Software, DevOps, DataSci, and AI/ML applications.
 - I have experience with Python, Typescript, React, C/C++, C#, Bash, Linux, Proxmox, and many more...
